@@ -45,7 +45,7 @@ Exact match on the same 150 SciQ questions:
 | Base | 0.7 | 80.7 |
 | LoRA fine-tuned | 3.3 | 79.3 |
 
-Retrieval supplies the knowledge (the input **x**): it lifts EM by about 80 points. Fine-tuning changes the model's behavior (its weights **θ**): what to output and when to abstain. It does not add new facts.
+Retrieval supplies the knowledge (the input **x**): it lifts EM by about 80 points. Fine-tuning changes the model's behavior (its weights **θ**): what to output and when to abstain.
 
 ## Running it
 
